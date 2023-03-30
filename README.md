@@ -1,17 +1,17 @@
 <h1 align="center">Welcome to my GitHub profile! 👋</h1>
 
-Hi! I'm Leandro Martinez, a passionate and committed developer focused on creating innovative and practical solutions that can have a positive impact on the world.
+Hi! I'm Sofia Ibañez, a passionate and committed developer focused on creating innovative and practical solutions that can have a positive impact on the world.
 
 With a focus on web development and programming, I have experience working with a variety of technologies. I like to stay up-to-date on the latest trends and tools, and I enjoy taking on new challenges in my daily work.
 
 In addition to my work as a developer, I really enjoy teamwork and collaborating with other developers to create exciting and meaningful projects. I firmly believe that diversity and inclusion are essential to the success of any project and I am always looking for ways to get involved in the development community to learn from others and share my experience.
 
 
-- 🔭 I’m currently working on [Rick & Morty](https://github.com/Lean0mar/RickAndMortyApp) 
+- 🔭 I’m currently working on [Rick & Morty](https://github.com/SofiaGIb/Rick_and_morty) 
 
 - 🌱 I’m currently learning **English** 
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Lean0mar) 
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/SofiaGIb) 
 
 
 - ⚡ Fun fact **I love to listen to music, drink copious amounts of coffee, and of course, program!**
@@ -74,22 +74,36 @@ Estoy siempre buscando oportunidades para mejorar mis habilidades y aprender cos
     <td align="center" width="96">  
 <a href="https://git-scm.com/" target="_blank"> <img src="./Img/R (1).png" alt="git" width="40" height="40"/> </a>
 <br>Git
-</table>
+<tr>
+    <td align="center" width="96"> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <br>Python
+  <tr>
+    <td align="center" width="96"> 
+    <a href="https://getbootstrap.com" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40 "/> </a>  
+    <br>Bootstrap
+      <td align="center" width="96"> 
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img origen="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+    <br>Sql
+      <td align="center" width="96"> 
+    <a href=" https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original -wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+    <br>MySql
+      <td align="center" width="96"> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt ="cartero" ancho="40" altura="40"/> </a> 
+    <br>Cartero
 
+</table>
 <h2 align="left">📫 Contact</h2>
 
 Thank you for visiting my GitHub profile! If you have any questions or would like to know more about my work, please don't hesitate to contact me. I hope to hear from you soon!
 
-<a href="https://github.com/Lean0mar/">
+<a href="https://github.com/SofiaGIb/">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/lean0mar">
-  <img align="left" alt="Telegram" width="22px" src="./Img/Telegram.jpg" />
-</a>
-<a href="mailto:lm.martinez.leandro@gmail.com">
+<a href="mailto:sofiagibanez@gmail.com">
   <img align="left" alt="Gmail" width="22px" src= "./Img/Gmail.jpg" />
 </a>
-<a href="https://www.linkedin.com/in/lean0mar">
+<a href="https://www.linkedin.com/in/sofia-ibañez-tqa">
   <img align="left" alt="LinkedIn" width="22px" src="./Img/LinkedIn.jpg" />
 </a>
 <br>
