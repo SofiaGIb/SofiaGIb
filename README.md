@@ -74,7 +74,6 @@ Estoy siempre buscando oportunidades para mejorar mis habilidades y aprender cos
     <td align="center" width="96">  
 <a href="https://git-scm.com/" target="_blank"> <img src="./Img/R (1).png" alt="git" width="40" height="40"/> </a>
 <br>Git
-<tr>
     <td align="center" width="96"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <br>Python
@@ -82,12 +81,6 @@ Estoy siempre buscando oportunidades para mejorar mis habilidades y aprender cos
     <td align="center" width="96"> 
     <a href="https://getbootstrap.com" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40 "/> </a>  
     <br>Bootstrap
-      <td align="center" width="96"> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img origen="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-    <br>Sql
-      <td align="center" width="96"> 
-    <a href=" https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original -wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <br>MySql
       <td align="center" width="96"> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt ="cartero" ancho="40" altura="40"/> </a> 
     <br>Cartero
