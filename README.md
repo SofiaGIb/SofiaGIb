@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile! 👋</h1>
 
 Hi! I'm Sofia Ibañez, 
-I started in the IT world hand in hand with testing and today I am passionate about programming that brings me constant challenges and satisfactory achievements which motivate me to seek constant challenges and always learn new things to achieve it.
+I started  IT world hand in hand with testing and today I am passionate about programming that brings me constant challenges and satisfactory achievements which motivate me to seek constant challenges and always learn new things to achieve it.
 i have focus on web development and programming, I have experience working with a variety of technologies. I like to stay up-to-date on the latest trends and tools, and I enjoy taking on new challenges in my daily work.
 
 In addition to my work as a developer, I really enjoy teamwork and collaborating with other developers to create exciting and meaningful projects. I firmly believe that diversity and inclusion are essential to the success of any project and I am always looking for ways to get involved in the development community to learn from others and share my experience.
