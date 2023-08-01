@@ -1,13 +1,13 @@
 <h1 align="center">Welcome to my GitHub profile! 👋</h1>
 
-Hi! I'm Sofia Ibañez, a passionate and committed developer focused on creating innovative and practical solutions that can have a positive impact on the world.
-
+Hi! I'm Sofia Ibañez, 
+I started in the IT world hand in hand with testing and today I am passionate about programming that brings me constant challenges and satisfactory achievements which motivate me to seek constant challenges and always learn new things to achieve it.
 With a focus on web development and programming, I have experience working with a variety of technologies. I like to stay up-to-date on the latest trends and tools, and I enjoy taking on new challenges in my daily work.
 
 In addition to my work as a developer, I really enjoy teamwork and collaborating with other developers to create exciting and meaningful projects. I firmly believe that diversity and inclusion are essential to the success of any project and I am always looking for ways to get involved in the development community to learn from others and share my experience.
 
 
-- 🔭 I’m currently working on [Rick & Morty](https://github.com/SofiaGIb/Rick_and_morty) 
+
 
 - 🌱 I’m currently learning **English** 
 
@@ -24,7 +24,7 @@ In addition to my work as a developer, I really enjoy teamwork and collaborating
 
 En mi perfil de GitHub, encontrarás una variedad de proyectos en los que he trabajado, desde pequeños experimentos hasta proyectos más grandes y completos. Aquí hay algunos ejemplos:
 
-- [Proyecto 1](link al proyecto 1): breve descripción del proyecto
+- [Proyecto 1](): breve descripción del proyecto
 - [Proyecto 2](link al proyecto 2): breve descripción del proyecto
 - [Proyecto 3](link al proyecto 3): breve descripción del proyecto
 
